@@ -11,4 +11,8 @@
 使用带有正交编码器的直流电机进行速度控制，编码器精度较低，仅有11线，进行四倍频后就有了44脉冲一圈编码器
 
 
-修改建议：使用DMA进行蓝牙播放，对传感器数据滤波
+修改建议：使用DMA进行蓝牙传输，对传感器数据滤波
+
+![IMG_20240531_003047](https://github.com/user-attachments/assets/0d870a6b-b312-4baa-959f-9819f3cd4223)
+
+![IMG_20240531_003038](https://github.com/user-attachments/assets/a9f3fea2-e0ad-4c32-b8c2-f7af3628289e)
