@@ -1,4 +1,7 @@
 # Fast-tracking-car-based-on-photoelectric-sensor
+
+记录一次课程设计：硬件组成+软件
+
 基于stm32f103c8t6最小系统板的光电管循迹小车
 
 使用到stm32f103c8t6最小系统板，主频为72Mhz，性能一般，使用vofa+进行速度环和转向环pid调试，只是够基础使用。在定时中断中通信失败，无法进行规律的数据传输，有能力的可以用更高性能芯片，将数据定时输出再使用matlab系统辨识，最后使用simulink进行pid参数镇定，效果超级好。
